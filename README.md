@@ -53,15 +53,6 @@ The `Documentation` file contains detailed branch-by-branch topology, IP schemes
 
 ---
 
-🚀 Future Improvements
-- Implement dynamic routing protocols (OSPF/EIGRP)  
-- Add firewall & VPN configurations  
-- Integrate cloud services for scalability  
-- Expand IoT automation and monitoring  
-- Enhance security with VLANs and ACLs  
-
----
-
 👨‍🎓 Author Notes
 This project is suitable for:
 - Networking students practicing Cisco Packet Tracer  
