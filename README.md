@@ -1,4 +1,4 @@
-🌐 Enterprise Network Design (Cisco Packet Tracer)
+# 🌐 Enterprise Network Design (Cisco Packet Tracer)
 📌 Overview
 
 This project is a group assignment for **Introduction to Networking**.  
